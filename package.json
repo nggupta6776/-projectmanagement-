@@ -1,0 +1,22 @@
+{
+  "name": "projectmanagemant",
+  "version": "1.0.0",
+  "description": "a project management application for bigginer",
+  "keywords": [
+    "udemy",
+    "course",
+    "backend",
+    "ApI",
+    "creations"
+  ],
+  "license": "ISC",
+  "author": "Nishant Gupta",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
